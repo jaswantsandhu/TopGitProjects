@@ -1,0 +1,9 @@
+.userAvatarImage {
+  height: 24px;
+  width: 24px;
+  border: 1px solid #ccc;
+  margin: 5px;
+}
+
+.td-width-20-per {  width: 20%;}
+.td-width-10-per {  width: 10%;}
